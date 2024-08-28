@@ -34,7 +34,7 @@
 
 ## About
 
-OSIS allows you to scan your network for all used IPs in a defined subnet by using it's simple commandline interface.
+OSIS allows you to scan your network for all used IPs in a defined subnet by using it's simple GUI.
 
 ---
 
