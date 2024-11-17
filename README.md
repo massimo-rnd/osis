@@ -1,89 +1,68 @@
-![Repo-Image](https://druffko.gg/github-images/osis.png)
+![Repo-Image](https://massimo.gg/github-images/osis.webp)
 
 <div align="center">
 
-![GitHub release (latest by date including pre-releases)](https://img.shields.io/github/v/release/druffko/osis?include_prereleases)
+# OSIS
 
-![Java Version](https://img.shields.io/badge/java-17-brightgreen)
-![GitHub last commit](https://img.shields.io/github/last-commit/druffko/osis)
-![Java Version](https://img.shields.io/badge/build-passing-brightgreen)
-![Java Version](https://img.shields.io/badge/PRs-welcome-brightgreen)
+![License](https://img.shields.io/github/license/massimo-rnd/osis)
+![Issues](https://img.shields.io/github/issues/massimo-rnd/osis)
+![Forks](https://img.shields.io/github/forks/massimo-rnd/osis)
+![Stars](https://img.shields.io/github/stars/massimo-rnd/osis)
+![Last Commit](https://img.shields.io/github/last-commit/massimo-rnd/osis)
+![GitHub release (latest by date including pre-releases)](https://img.shields.io/github/v/release/massimo-rnd/osis?include_prereleases)
 
-  <br>
-
-![GitHub All Releases](https://img.shields.io/github/downloads/druffko/osis/total)
-![GitHub closed issues](https://img.shields.io/github/issues-closed/druffko/osis)
-![GitHub issues](https://img.shields.io/github/issues/druffko/osis)
-
-  <h1>OSIS</h1>
-  <p>
-    OSIS allows you to scan your network for all used IPs in a defined subnet by using it's simple GUI.
-  </p>
 </div>
 
----
-
-## Table of Contents
-- [About](#about)
-- [Features](#features)
-- [Installation](#installation)
-- [Contributing](#contributing)
-- [License](#license)
-- [Contact](#contact)
-
----
-
-## About
+## 🚀 Overview
 
 OSIS allows you to scan your network for all used IPs in a defined subnet by using it's simple GUI.
 
----
+## 🎯 Features
 
-## Features
+- Simple IP Scanning of a desired subnet
+- Results with hostnames for identification
+- Open-Source & Free
 
-- ✅ Simple IP Scanning of a desired subnet
-- ✅ Results with hostnames for identification
-- ✅ Open-Source & Free
+## 🛠️ Installation
 
----
-
-## Installation
-
-### Download the latest version
-
-To start off, please head to the [releases page](https://github.com/druffko/osis/releases) and download a pre-built jar file.
+To start off, please head to the [releases page](https://github.com/massimo-rnd/osis/releases) and download a pre-built jar file.
 
 *If you don't trust me for some reason, feel free to download the latest released source code and build it your self.*
 
-### Launch the application
+## 💻 Usage
 
 Launch the application using your terminal. Most of the time it's the following command:
 
 `java -jar osis.jar`
 
+## 🤝 Contributing
+
+Contributions, issues, and feature requests are welcome!  
+Feel free to check the [issues page](https://github.com/massimo-rnd/osis/issues).
+
+1. Fork the project.
+2. Create your feature branch (`git checkout -b feature/AmazingFeature`).
+3. Commit your changes (`git commit -m 'Add some AmazingFeature'`).
+4. Push to the branch (`git push origin feature/AmazingFeature`).
+5. Open a pull request.
+
+See [CONTRIBUTING.md](CONTRIBUTING.md) for more details.
+
+## 📜 License
+
+This project is licensed under the GPL-3.0 License. See the [LICENSE](LICENSE) file for details.
+
+## 📊 Repository Metrics
+
+![Repo Size](https://img.shields.io/github/repo-size/massimo-rnd/osis)
+![Contributors](https://img.shields.io/github/contributors/massimo-rnd/osis)
+![Commit Activity](https://img.shields.io/github/commit-activity/m/massimo-rnd/osis)
+
 ---
 
-## Contributing
+### 📞 Contact
 
-Contributions are welcome! Please follow these steps:
-
-1. Fork the repository
-2. Create a new branch (`git checkout -b feature-name`)
-3. Commit your changes (`git commit -m 'Add some feature'`)
-4. Push to the branch (`git push origin feature-name`)
-5. Open a pull request
-
----
-
-## License
-
-This project is licensed under the [GNU 3.0 License](LICENSE).
-
----
-
-## Contact
-
-- **druffko** - [@druffko](https://twitter.com/druffko) - hi@druffko.gg
-- **Project Link** - https://github.com/druffko/osis
-
-Feel free to reach out if you have any questions or suggestions!
+For any inquiries, feel free to reach out:
+- email: [hi@massimo.gg](mailto:hi@massimo.gg)
+- X: [massimo-rnd](https://x.com/massimo-rnd)
+- [Discord](https://discord.gg/wmC5AA6c)
